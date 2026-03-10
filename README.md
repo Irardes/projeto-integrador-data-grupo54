@@ -15,10 +15,10 @@ Análise de Dados de Plataforma de Streaming
 
 # 👥 Integrantes
 
-* Nome 1
-* Nome 2
-* Nome 3
-* Nome 4
+* Glauderson Oliveira Neris de Araujo
+* Irardes de Luna e Silva Santos
+* Juana Ruth da Silva Gomes
+* Markus Vinicius Stival Bernardo 
 
 ---
 
