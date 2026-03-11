@@ -41,15 +41,43 @@ O objetivo do projeto é analisar os dados disponíveis para identificar:
 
 ---
 
-# 🗂️ Base de Dados
+## 🗂️ Base de Dados
 
-A base de dados será composta por informações relacionadas a títulos de streaming contendo:
+Para o desenvolvimento deste projeto será utilizada a base de dados **Netflix Titles Dataset**, amplamente utilizada em projetos de análise de dados e ciência de dados.
 
-* Gênero
-* Ano de lançamento
-* País de produção
-* Avaliação
-* Tipo de conteúdo (Filme ou Série)
+A base contém informações sobre títulos disponíveis na plataforma de streaming Netflix.
+
+### 📊 Principais colunas da base
+
+* **show_id** – Identificador do título
+* **type** – Tipo de conteúdo (Filme ou Série)
+* **title** – Nome do título
+* **director** – Diretor
+* **cast** – Elenco principal
+* **country** – País de produção
+* **date_added** – Data de adição na plataforma
+* **release_year** – Ano de lançamento
+* **rating** – Classificação indicativa
+* **duration** – Duração do conteúdo
+* **listed_in** – Gênero do conteúdo
+* **description** – Descrição do título
+
+### 🎯 Motivo da escolha da base
+
+Essa base foi escolhida porque possui dados relevantes para análise de conteúdo de streaming, permitindo explorar:
+
+* Distribuição de filmes e séries
+* Frequência de gêneros
+* Evolução de lançamentos ao longo dos anos
+* Participação de diferentes países na produção de conteúdo
+
+Essas informações possibilitam identificar tendências no catálogo da plataforma.
+
+### 📎 Fonte da base de dados
+
+A base de dados pode ser encontrada no Kaggle:
+
+Netflix Movies and TV Shows Dataset
 
 ---
 
