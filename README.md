@@ -18,8 +18,11 @@ Análise de Dados de Plataforma de Streaming
 * Glauderson Oliveira Neris de Araujo
 * Irardes de Luna e Silva Santos
 * Juana Ruth da Silva Gomes
-* Markus Vinicius Stival Bernardo 
-
+* Markus Vinicius Stival Bernardo
+* Oiama Meira Santana
+* Sheila Cristina Zanin
+* Thais Camila de Souza Brito
+ 
 ---
 
 # 📖 Contexto da Análise
@@ -108,14 +111,17 @@ Essas métricas serão apresentadas através de gráficos e dashboards.
 
 ---
 
-# 📋 Planejamento das Tarefas
+## 📋 Planejamento das Tarefas
 
-| Integrante   | Responsabilidade                                |
-| ------------ | ----------------------------------------------- |
-| Integrante 1 | Escolha e organização da base de dados          |
-| Integrante 2 | Planejamento das transformações                 |
-| Integrante 3 | Planejamento das métricas                       |
-| Integrante 4 | Estruturação do README e organização do projeto |
+| Integrante | Responsabilidade |
+|------|------|
+| Integrante 1 | Escolha e organização da base de dados |
+| Integrante 2 | Limpeza de dados |
+| Integrante 3 | Transformação dos dados |
+| Integrante 4 | Criação dos gráficos |
+| Integrante 5 | Análise das métricas |
+| Integrante 6 | Construção do dashboard |
+| Integrante 7 | Estruturação do README e organização do projeto |
 
 ---
 
