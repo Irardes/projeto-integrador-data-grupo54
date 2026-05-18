@@ -175,7 +175,7 @@ Exemplos:
 * Git
 * GitHub
 
-## Visualização do Projeto
+## 🌐 Visualização do Projeto
 
 A aplicação desenvolvida para análise dos dados pode ser acessada pelo link abaixo:
 
