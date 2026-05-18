@@ -112,18 +112,20 @@ Essas métricas serão apresentadas através de gráficos e dashboards.
 
 ---
 
-## 📋 Planejamento das Tarefas
+## Participação da Equipe
 
-| Integrante | Responsabilidade |
-|------|------|
-| Integrante 1 | Escolha da base de dados |
-| Integrante 2 | Organização da base |
-| Integrante 3 | Limpeza de dados |
-| Integrante 4 | Transformação de dados |
-| Integrante 5 | Criação dos gráficos |
-| Integrante 6 | Análise das métricas |
-| Integrante 7 | Construção do dashboard |
-| Integrante 8 | Organização do README e documentação |
+| Integrante | Participação no Projeto |
+|---|---|
+| Glauderson | Organização e estruturação do projeto |
+| Irardes | Apoio no planejamento e organização geral |
+| Juana | Apoio na análise e tratamento dos dados |
+| Markus | Auxílio na validação das informações |
+| Glauderson | Desenvolvimento e testes do dashboard |
+| Ygor | Pesquisa e definição de métricas |
+| Oiama | Revisão visual e interpretação dos resultados |
+| Sheila | Suporte na construção das visualizações |
+| Thais | Apoio na revisão final e documentação complementar |
+| Irardes | Documentação e organização do README |
 
 ---
 
