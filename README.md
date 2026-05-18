@@ -157,15 +157,17 @@ projeto-integrador-streaming
 
 ---
 
-# 📊 Exemplo de Visualização (Dashboard)
+## 📊 Exemplo de Visualização (Dashboard)
 
-*Os gráficos serão adicionados aqui após o desenvolvimento da análise.*
+A aplicação interativa desenvolvida para análise dos dados pode ser acessada pelo link abaixo:
 
-Exemplos:
+🔗 https://projeto-integrador-app-oktzhkst2nqfdx8jyt5mqf.streamlit.app/
 
-* Gráfico de barras por gênero
-* Gráfico de linhas de lançamentos por ano
-* Distribuição de filmes e séries
+### Funcionalidades disponíveis:
+- Gráficos de barras por gênero
+- Gráficos de lançamentos por ano
+- Distribuição de filmes e séries
+- Visualização interativa dos dados
 
 ---
 
@@ -176,12 +178,6 @@ Exemplos:
 * Jupyter Notebook
 * Git
 * GitHub
-
-## 🌐 Visualização do Projeto
-
-A aplicação desenvolvida para análise dos dados pode ser acessada pelo link abaixo:
-
-https://projeto-integrador-app-oktzhkst2nqfdx8jyt5mqf.streamlit.app/
 
 ---
 
