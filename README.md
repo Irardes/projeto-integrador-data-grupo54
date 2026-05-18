@@ -157,7 +157,7 @@ projeto-integrador-streaming
 
 ---
 
-## 📊 Exemplo de Visualização (Dashboard)
+## 📊 Visualização (Dashboard)
 
 A aplicação interativa desenvolvida para análise dos dados pode ser acessada pelo link abaixo:
 
