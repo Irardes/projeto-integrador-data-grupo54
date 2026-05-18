@@ -175,6 +175,12 @@ Exemplos:
 * Git
 * GitHub
 
+## Dashboard Streamlit
+
+A aplicação desenvolvida para análise dos dados pode ser acessada pelo link abaixo:
+
+https://projeto-integrador-app-oktzhkst2nqfdx8jyt5mqf.streamlit.app/
+
 ---
 
 # 📎 Repositório do Projeto
